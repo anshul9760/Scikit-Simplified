@@ -1,12 +1,18 @@
 # Scikit-Simplified
-Multiple Codes Representing Application of Sci-kit Algorithms.
+Multiple Simple chunks of Codes Representing Application of Sci-kit Algorithms.
 
 Just Copy and Paste in your Environment and edit accordingly to play around.
 
 Index : 
 
-Simple Linear Regression
+Linear Regression
 
-Simple Logistic Regression 
+Classification Regression 
 
-Simple Polynomial Regression
+Polynomial Regression
+
+Decision Tree Classifier
+
+Bagging and Boosting
+
+Stochastic Gradient Descent
